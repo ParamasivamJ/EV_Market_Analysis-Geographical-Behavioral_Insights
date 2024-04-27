@@ -1,0 +1,2 @@
+# Electric-Vehicle-Market-Analysis-Geographical-Behavioral-Insights
+This repository contains an in-depth analysis of the electric vehicle market, providing geographical insights into vehicle distribution across states and behavioral patterns regarding factors like salary, age, and personal loans. Explore our findings and recommendations for strategic marketing and investment decisions in the EV industry.
